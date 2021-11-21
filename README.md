@@ -88,6 +88,18 @@ Clone this repo using this command
 git clone https://github.com/team4099/tableau.git
 ```
 
+## Commiting changes
+
+When committing your changes to the tableau file, make sure to run these lines of code
+
+```
+git add *
+git commit -m "<your_commit_message>"
+git push
+```
+
+The * makes it so that you don't push hidden files and make sure to replace `<your_commit_message>` with a meaningful but short commit message (don't include the <>)
+
 
 
 
